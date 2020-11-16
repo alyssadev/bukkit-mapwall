@@ -1,0 +1,9 @@
+name: mapwall
+main: ads.bukkit.mapwall.MapWall
+version: 0.0.1
+author: alyssile
+api-version: 1.15
+commands:
+  mapwall:
+    description: Test
+    usage: /mapwall
